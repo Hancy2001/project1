@@ -1,3 +1,5 @@
 # project1
-ssh-keygen -t rsa -b 4096 -c"your_email@gmail.com"
+
+How to generate ssh key
+ssh-keygen -t rsa -b 4096 -c"your_email@example.com"
 cat -/.ssh/id_rsa.pub
